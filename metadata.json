@@ -1,0 +1,5 @@
+{
+  "name": "Smart Public Complaint Prioritization System",
+  "description": "An intelligent platform for citizens to submit complaints that are automatically prioritized based on urgency using AI-driven keyword analysis.",
+  "requestFramePermissions": []
+}
